@@ -11,6 +11,12 @@
   - [Where can I find examples or inspiration?](#where-can-i-find-examples-or-inspiration)
   - [How do I deploy my site to the internet?](#how-do-i-deploy-my-site-to-the-internet)
 
+## Individual Portfolio Repo Link
+https://github.com/ilham-saleh/my-portfolio/settings
+
+## Individual Deployed Portfolio Link
+https://6564767d1d9b2b0008f950cd--fabulous-monstera-cb8660.netlify.app/
+
 ## Overview
 ### What is a Developer Portfolio?
 
